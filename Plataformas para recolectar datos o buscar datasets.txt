@@ -1,0 +1,16 @@
+
+
+Populares
+
+https://www.kaggle.com/datasets?fileType=csv
+
+https://datasetsearch.research.google.com/
+
+https://github.com/awesomedata/awesome-public-datasets/blob/master/README.rst
+
+Alternativos
+
+
+https://www.who.int/data/collections
+https://data.world/fivethirtyeight
+https://datos.bancomundial.org/

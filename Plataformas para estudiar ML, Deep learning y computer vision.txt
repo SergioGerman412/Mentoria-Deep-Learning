@@ -1,0 +1,14 @@
+
+--------------------------------------------------------------------------------------------------------------------------
+
+Analytics Vidhya: https://courses.analyticsvidhya.com/
+
+Cursos sobre redes neuronales convolucionales, machine learning, NLP, etc.
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+GOOGLE:     https://developers.google.com/machine-learning/crash-course/reducing-loss/video-lecture?authuser=3
+
+-------------------------------------------------------------------------------
+
+COURSERA:  https://es.coursera.org/learn/neural-networks-deep-learning
